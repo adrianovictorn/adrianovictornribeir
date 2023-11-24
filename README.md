@@ -7,7 +7,7 @@
 [![Telefone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/vdg6zf)
 
 
-[![Adriano Victor GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=adrianovictornribeir&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Adriano Victor GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=adrianovictornribeir&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/adrianovictornribeir/github-readme-stats#gh-light-mode-only) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovictornribeir&layout=compact)
 
