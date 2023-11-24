@@ -1,15 +1,22 @@
 ### Olá! Eu sou o Adriano Victor N. Ribeiro 👋🏽
 
 -----------
+Técnico de Informática. 🖥️ <br>
+Estudante do curso de ADS. 🧑🏽‍🎓
+
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:adrianovictorads@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-victor-nascimento-ribeiro)
 [![Telefone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/vdg6zf)
 
+<div>
 
-[![Adriano Victor GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=adrianovictornribeir&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/adrianovictornribeir/github-readme-stats#gh-light-mode-only) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovictornribeir&layout=compact)
+![Adriano Victor N. Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianovictornribeir&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovictornribeir&layout=donut)](https://github.com/adrianovictornribeir/github-readme-stats)
+
+</div>
 
 ## Linguagens:
 
@@ -21,4 +28,3 @@
 
 
 </div>
-
