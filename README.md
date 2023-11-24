@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Adriano Victor N. Ribeiro 👋🏽
 
 -----------
-Técnico de Informática. 🖥️ <br>
-Estudante do curso de ADS. 🧑🏽‍🎓
 
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:adrianovictorads@gmail.com)
